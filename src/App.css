@@ -22,3 +22,22 @@
   font-weight: bold;
   color: black;
 }
+
+
+#somos {
+
+  margin: 0 120px;
+
+}
+
+.menu {
+
+  position: sticky;
+
+  top: 0;
+
+  z-index: 100;
+
+  margin: 20px 0;
+
+}
