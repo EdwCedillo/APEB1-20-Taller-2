@@ -7,7 +7,7 @@
   gap: 10px;
   flex-wrap: wrap;
   justify-content: center;
-}
+  }
 .nav{
   display: flex;
   flex-direction: column;
@@ -31,13 +31,16 @@
 }
 
 .menu {
-
   position: sticky;
-
   top: 0;
-
   z-index: 100;
-
   margin: 20px 0;
 
+}
+
+footer {
+  background-color: #333;
+  padding: 15px 0;
+  text-align: center;
+  color: white;
 }
